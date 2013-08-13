@@ -1,0 +1,2 @@
+cordova-android-emailcomposer-plugin
+====================================
